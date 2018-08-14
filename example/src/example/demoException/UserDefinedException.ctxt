@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=UserDefinedException
+comment0.text=\r\n\ @author\ Prakash\r\n\r\n
+comment1.params=
+comment1.target=UserDefinedException()
+comment1.text=\r\n\ \r\n
+comment2.params=arg0
+comment2.target=UserDefinedException(java.lang.String)
+comment2.text=\r\n\ @param\ arg0\r\n
+comment3.params=arg0
+comment3.target=UserDefinedException(java.lang.Throwable)
+comment3.text=\r\n\ @param\ arg0\r\n
+comment4.params=arg0\ arg1
+comment4.target=UserDefinedException(java.lang.String,\ java.lang.Throwable)
+comment4.text=\r\n\ @param\ arg0\r\n\ @param\ arg1\r\n
+comment5.params=arg0\ arg1\ arg2\ arg3
+comment5.target=UserDefinedException(java.lang.String,\ java.lang.Throwable,\ boolean,\ boolean)
+comment5.text=\r\n\ @param\ arg0\r\n\ @param\ arg1\r\n\ @param\ arg2\r\n\ @param\ arg3\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ @param\ args\r\n
+numComments=7
